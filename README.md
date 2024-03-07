@@ -1,3 +1,26 @@
+Для того чтобы запустить проект нужно сделать 3 шага:
+1. устанавливаем зависимости npm i
+2. создаем файл в корне проекта .env.local и вставляем туда строки
+`
+    API_HOST = 'http://localhost:3000/api'
+
+    GOOGLE_CLIENT_ID = '225382001967-7mkrg3um6mu25tjnvv87929fktkqpqu1.apps.googleusercontent.com'
+    GOOGLE_SECRET = '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'
+
+    NEXTAUTH_SECRET = 'supersecret'
+    NEXTAUTH_URL = 'http://localhost:3000'
+`
+3. запускаем командой npm run dev и переходим по адресу http://localhost:3000
+
+
+отчет по заданиям:
+п. 1-10 сделал
+по 11 есть нюансы, не нашел информации как работать с файлами на локальном api next js, поэтому картинка даже если вы ее загрузите не придет, после добавления обновите главную станицу где отображаются айтемы
+12. сделал
+13. не делал
+
+На все потратил около 16 часов
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
