@@ -19,6 +19,10 @@
 12. сделал
 13. не делал
 
+Формы не валидировал так как это не входило в рамки задач)
+Данные для входа можно использовать эти "somegmail@gmail.com" "123456"
+или войти через гугл аккаунт
+
 На все потратил около 16 часов
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
